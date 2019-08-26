@@ -1,0 +1,27 @@
+{
+
+"images": [
+    "../media/images/T3healer.png"
+],
+
+"framerate": 4,
+"frames": [
+    [0, 0, 66, 113, 0, 0, 0],
+    [66, 0, 66, 113, 0, 0, 0],
+    [132, 0, 66, 113, 0, 0, 0],
+    [198, 0, 66, 113, 0, 0, 0],
+    [264, 0, 66, 113, 0, 0, 0],
+    [330, 0, 66, 113, 0, 0, 0],
+    [396, 0, 66, 113, 0, 0, 0]
+],
+
+"animations": {
+    "damaged": { "frames": [0] },
+    "damagedHit": { "frames": [1] },
+    "pristine": { "frames": [2] },
+    "pristineHit": { "frames": [3] },
+    "wrecked": { "frames": [4] },
+    "wreckedHit": { "frames": [5] },
+    "dead": { "frames": [6] }
+}
+}

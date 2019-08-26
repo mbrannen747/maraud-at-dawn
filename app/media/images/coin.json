@@ -1,0 +1,38 @@
+{
+
+"images": [
+    "coin.png"
+],
+
+"framerate": 4,
+"frames": [
+    [0, 0, 32, 32, 0, 0, 0],
+    [32, 0, 32, 32, 0, 0, 0],
+    [64, 0, 32, 32, 0, 0, 0],
+    [96, 0, 32, 32, 0, 0, 0],
+    [128, 0, 32, 32, 0, 0, 0],
+    [160, 0, 32, 32, 0, 0, 0],
+    [192, 0, 32, 32, 0, 0, 0],
+    [224, 0, 32, 32, 0, 0, 0],
+    [256, 0, 32, 32, 0, 0, 0]
+],
+
+"animations": {
+    "goldCoin1": { "frames": [0] },
+    "goldCoin2": { "frames": [1] },
+    "goldCoin3": { "frames": [2] },
+    "goldCoin4": { "frames": [3] },
+    "goldCoin5": { "frames": [4] },
+    "goldCoin6": { "frames": [5] },
+    "goldCoin7": { "frames": [6] },
+    "goldCoin8": { "frames": [7] },
+    "goldCoin9": { "frames": [8] },
+    "fullGold": { "frames": [0,1,2,3,4,5,6,7,8]}
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:ce42b66335592083e71138baa1ab112b:9a32b1730b021d6c6f8e74720c52379e:37dcde439de7f7292f96409a4c62c08e$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

@@ -1,0 +1,27 @@
+{
+
+"images": [
+    "../media/images/superunit.png"
+],
+
+"framerate": 4,
+"frames": [
+    [0, 0, 66, 113, 0, 0, 0],
+    [66, 0, 66, 113, 0, 0, 0],
+    [132, 0, 66, 113, 0, 0, 0],
+    [198, 0, 66, 113, 0, 0, 0],
+    [264, 0, 66, 113, 0, 0, 0],
+    [330, 0, 66, 113, 0, 0, 0],
+    [396, 0, 66, 113, 0, 0, 0]
+],
+
+"animations": {
+    "wrecked": { "frames": [0] },
+    "wreckedHit": { "frames": [1] },
+    "pristine": { "frames": [2] },
+    "pristineHit": { "frames": [3] },
+    "damaged": { "frames": [5] },
+    "damagedHit": { "frames": [6] },
+    "dead": { "frames": [4] }
+}
+}
